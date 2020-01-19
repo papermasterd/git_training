@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is the second line I am adding to alice. Here are some more changes.
+Even more changes are being added in order to enhance my git skills.
